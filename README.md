@@ -31,3 +31,12 @@
 ### Restaurar Cambios hechos a un estado anterior
 
     $ git restore <filename>
+    $ git checkout <filename>
+
+### Listar commits hechos
+
+    $ git log
+
+### Regresar a un commit anterior
+
+    $git chekout <hash>
