@@ -16,6 +16,18 @@
 
     $ git status
 
+### Preparar archivos a guardar 
+
+    $ git add -A
+    $ git add .
+    $ git add *
+    $ git add <filename>
+
+### Guardar archivos en el repositorio local
+
+    $ git commit -m "Mensaje o Description de la tareas o modificaciones hechas"
 
 
+### Restaurar Cambios hechos a un estado anterior
 
+    $ git restore <filename>
