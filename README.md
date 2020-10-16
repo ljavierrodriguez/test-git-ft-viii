@@ -48,3 +48,7 @@
 ### Activar rama (branch)
 
     $ git checkout <branch-name>
+
+### Unir cambios en ramas
+
+    $ git merge <branch-origen> <branch-destino>
