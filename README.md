@@ -56,3 +56,14 @@
 ### Añadir repositorio remoto
 
     $ git remote add origin https://github.com/username/repo-name.git
+
+
+### Enviar cambios al repositorio remoto
+
+    $ git push origin <branch>
+
+
+### Descargar cambios desde el repositorio remoto
+
+    $ git pull origin <branch>
+    $ git fetch
