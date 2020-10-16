@@ -39,4 +39,12 @@
 
 ### Regresar a un commit anterior
 
-    $git chekout <hash>
+    $ git chekout <hash>
+
+### Crear una nueva rama (branch)
+
+    $ git branch <branch-name>
+
+### Activar rama (branch)
+
+    $ git checkout <branch-name>
