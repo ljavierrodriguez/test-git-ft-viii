@@ -52,3 +52,7 @@
 ### Unir cambios en ramas
 
     $ git merge <branch-origen> <branch-destino>
+
+### Añadir repositorio remoto
+
+    $ git remote add origin https://github.com/username/repo-name.git
